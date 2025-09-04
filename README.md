@@ -14,7 +14,7 @@ Below is an example visualization of the decision boundary and class probabiliti
 
 ![Demo Screenshot](demo_screenshot.png)
 <br>
-*Blue points → class +1, Red points → class -1, White line → decision boundary.*
+*Blue points → class +1, Red points → class -1, White/Black line → decision boundary.*
 
 ---
 
